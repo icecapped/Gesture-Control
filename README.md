@@ -1,5 +1,5 @@
 # Gesture-Control
-Java bluetooth reciever code for a gesture control device created for the Victoria Park IB class of 2021 Group 4 project.
+Gesture control device for presentations and other stuff. Programmed in Java using the Bluecove library.
 
 Electronic components for the device include:
 - Arduino Nano
